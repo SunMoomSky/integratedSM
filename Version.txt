@@ -1,4 +1,4 @@
-app_version=3.0.6
+app_version=3.0.7
 fw_version=2.0.1
 snd_version=3.0.0
 banner_image=img_20230801.png

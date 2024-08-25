@@ -1,3 +1,4 @@
 app_version=3.5.20
 fw_version=2.0.3
 snd_version=3.0.0
+ntc_version=1.0.0

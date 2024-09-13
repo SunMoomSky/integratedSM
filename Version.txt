@@ -1,5 +1,5 @@
 app_version=4.0.3
 fw_version=2.0.3
 snd_version=3.0.0
-ntc_version=1.0.5
+ntc_version=1.0.6
 ntc_url=http://seohadigital.thesome.com/bbs/board.php?bo_table=data_ms01&sca=%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD
